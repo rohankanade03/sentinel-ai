@@ -1,0 +1,4 @@
+.env
+.env.local
+.env.*.local
+backend/data/dev-db.json
